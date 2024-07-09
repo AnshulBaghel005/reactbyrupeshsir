@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(207, 90, 12);
+    color: white;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
